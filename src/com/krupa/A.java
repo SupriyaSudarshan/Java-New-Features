@@ -10,7 +10,7 @@ public interface A {
 	//Static method
 
 }
-
+//check git 
 @FunctionalInterface
 interface B extends A{
 	
